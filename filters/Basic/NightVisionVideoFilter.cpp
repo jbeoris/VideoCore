@@ -3,7 +3,6 @@
 
 #include <TargetConditionals.h>
 
-
 #ifdef TARGET_OS_IPHONE
 
 #include <OpenGLES/ES2/gl.h>
